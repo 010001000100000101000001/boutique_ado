@@ -27,9 +27,7 @@ SECRET_KEY = 'django-insecure-w(_9!lp^gy*i94gndl_q(htp%@4h-a3!!2-&7=d8d#8k%jx*n2
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-01000100010-boutiqueado-q8ykzlfxky7.ws.codeinstitute-ide.net',
-    'boutique-ado-v01-d7023a970b88.herokuapp.com',
-    'localhost',
+    '8000-01000100010-boutiqueado-q8ykzlfxky7.ws.codeinstitute-ide.net', 'boutique-ado-v01-d7023a970b88.herokuapp.com', 'localhost'
 ]
 
 
