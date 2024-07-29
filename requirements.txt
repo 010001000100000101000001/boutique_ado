@@ -1,3 +1,4 @@
+setuptools==59.6.0
 asgiref==3.8.1
 certifi==2024.7.4
 charset-normalizer==3.3.2
